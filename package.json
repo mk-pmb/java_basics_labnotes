@@ -1,0 +1,21 @@
+{ "name": "java_basics_labnotes",
+  "version": "0.0.1",
+  "description": "A foray into the basics of Java.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/java_basics_labnotes/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/java_basics_labnotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/java_basics_labnotes/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "MIT",
+
+
+  "engines": { "openjdk": ">=17" }
+}
