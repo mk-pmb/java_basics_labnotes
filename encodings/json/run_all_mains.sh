@@ -1,0 +1,1 @@
+../../util/run_all_mains.sh
